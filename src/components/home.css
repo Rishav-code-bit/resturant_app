@@ -1,0 +1,10 @@
+.homebg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    background-color: brown;
+}
+.homename {
+    align-items: center;
+}
