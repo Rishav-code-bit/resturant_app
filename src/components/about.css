@@ -1,0 +1,26 @@
+.about__container {
+    margin: 0;
+    padding: 0;
+}
+
+.about__header {
+    width: 100vw;
+    color:aliceblue;
+    background-color: black;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.about__header__left {
+    float: left;
+    font-size: 45px;
+}
+
+.about__header__right {
+    float: right;
+}
+
+.about__footer{
+    position: relative;
+}
